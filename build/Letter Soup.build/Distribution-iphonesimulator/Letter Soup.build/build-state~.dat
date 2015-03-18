@@ -1,0 +1,1577 @@
+TLetter Soup
+v7
+r0
+t309304923.333579
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Info.plist" "Letter Soup-Info.plist"
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib"
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib"
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/background.png" Resources/background.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton.png" Resources/menu_newGameButton.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton.png" Resources/menu_recipeButton.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton.png" Resources/menu_resumeButton.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton.png" Resources/menu_scoresButton.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth.png" Resources/spoonBroth.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Dictionary" Dictionary
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon.png" Icon.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTN.png" Resources/menuBTN.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTN.png" Resources/submitBTN.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/background@2x.png" Resources/background@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTN@2x.png" Resources/menuBTN@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth@2x.png" Resources/spoonBroth@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTN@2x.png" Resources/submitBTN@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default.png" Default.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default@2x.png" Default@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon@2x.png" Icon@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default-Portrait.png" Default-Portrait.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton@2x.png" Resources/menu_newGameButton@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton@2x.png" Resources/menu_recipeButton@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton@2x.png" Resources/menu_resumeButton@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton@2x.png" Resources/menu_scoresButton@2x.png
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib"
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/backgroundHipad.png" Resources-iPad/backgroundHipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/backgroundVipad.png" Resources-iPad/backgroundVipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTNhorizontalipad.png" Resources-iPad/menuBTNhorizontalipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTNverticalipad.png" Resources-iPad/menuBTNverticalipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothHipad.png" Resources-iPad/spoonBrothHipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothVipad.png" Resources-iPad/spoonBrothVipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTNhorizontalipad.png" Resources-iPad/submitBTNhorizontalipad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTNverticalipad.png" Resources-iPad/submitBTNverticalipad.png
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib"
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abciPad.png" Resources-iPad/scores-abciPad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowliPad.png" Resources-iPad/scores-bowliPad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abciPad.png" Resources-iPad/title-abciPad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowliPad.png" Resources-iPad/title-bowliPad.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abc.png" Resources/scores-abc.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abc@2x.png" Resources/scores-abc@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl.png" Resources/scores-bowl.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl@2x.png" Resources/scores-bowl@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abc.png" Resources/title-abc.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abc@2x.png" Resources/title-abc@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowl.png" Resources/title-bowl.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowl@2x.png" Resources/title-bowl@2x.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default-Landscape.png" Default-Landscape.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon-72.png" Icon-72.png
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Instructions.txt" Instructions.txt
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/bigSlurp.caf" bigSlurp.caf
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/smallSlurp.caf" smallSlurp.caf
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/undo.caf" undo.caf
+cCpResource "build/Distribution-iphonesimulator/Letter Soup.app/click.caf" click.caf
+cProcessPCH "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch.gch" "Letter Soup_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/main.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGAppDelegate.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewController.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGTitleLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGLetterLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGWordView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/NSMutableArray-MultipleSort.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewControlleriPad.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGScrollView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUILabel.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUITextView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup" normal i386
+cGenerateDSYMFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app.dSYM" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup"
+cTouch "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004C5A4D020000000000000A23
+t1280986370
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004C5A4C9B0000000000238BB0
+t1280986267
+s2329520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004C5A4C8C000000000000B1F9
+t1280986252
+s45561
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStringTokenizer.h
+c000000004C5A4C8C0000000000003056
+t1280986252
+s12374
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4CD800000000000004FE
+t1280986328
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004AD8432000000000004C9980
+t1255686944
+s5020032
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m
+c000000004CB66B310000000000000F42
+t1287023409
+s3906
+i"SGScrollView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.h
+c000000004AE76025000000000000080D
+t1256677413
+s2061
+i<Foundation/Foundation.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m
+c000000004AE760360000000000000C37
+t1256677430
+s3127
+i"NSMutableArray-MultipleSort.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.h
+c000000004C8027F60000000000000280
+t1283467254
+s640
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m
+c000000004CB249BD00000000000005B8
+t1286752701
+s1464
+i"SGAppDelegate.h"
+i"SGViewController.h"
+i"SGViewControlleriPad.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.h
+c000000004C77043600000000000001E3
+t1282868278
+s483
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m
+c000000004CB627D700000000000008C0
+t1287006167
+s2240
+i"SGLetterLayer.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.h
+c000000004CB3F9230000000000000472
+t1286863139
+s1138
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m
+c000000004CB4A9E20000000000001901
+t1286908386
+s6401
+i"SGTitleLayer.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.h
+c000000004CB385300000000000000C6E
+t1286833456
+s3182
+i<UIKit/UIKit.h>
+i<CoreFoundation/CFStringTokenizer.h>
+i<CoreFoundation/CFString.h>
+i"SGLetterLayer.h"
+i"SGTitleLayer.h"
+i"SGWordView.h"
+i"NSMutableArray-MultipleSort.h"
+i"SGScrollView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m
+c000000004CB62CDF0000000000006924
+t1287007455
+s26916
+i"SGViewController.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h
+c000000004CB5E2980000000000000D87
+t1286988440
+s3463
+i<UIKit/UIKit.h>
+i<CoreFoundation/CFStringTokenizer.h>
+i<CoreFoundation/CFString.h>
+i"SGLetterLayer.h"
+i"SGTitleLayer.h"
+i"SGWordView.h"
+i"NSMutableArray-MultipleSort.h"
+i"SGScrollView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m
+c000000004CB62D64000000000000768E
+t1287007588
+s30350
+i"SGViewControlleriPad.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.h
+c000000004CB4EF3E00000000000002C6
+t1286926142
+s710
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m
+c000000004CB62A1A0000000000000D8A
+t1287006746
+s3466
+i"SGWordView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.h
+c000000004CB66B2D00000000000000E6
+t1287023405
+s230
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m
+c000000004CB5F86C000000000000055D
+t1286994028
+s1373
+i"ShadowedUILabel.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.h
+c000000004CA66AC200000000000000EC
+t1285974722
+s236
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m
+c000000004CB62EA200000000000006A7
+t1287007906
+s1703
+i"ShadowedUITextView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Landscape.png
+c000000004CB403BF000000000008F9F6
+t1286865855
+s588278
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png
+c000000004CB4037F0000000000089709
+t1286865791
+s562953
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png
+c000000004CB53215000000000001EC2A
+t1286943253
+s125994
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png
+c000000004C7412B8000000000005AD7F
+t1282675384
+s372095
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary
+c000000004CB404DA00000000000D4B51
+t1286866138
+s871249
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon-72.png
+c000000004CB4060700000000000028A4
+t1286866439
+s10404
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png
+c000000004CB4061A0000000000001CCA
+t1286866458
+s7370
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png
+c000000004CB406140000000000005A49
+t1286866452
+s23113
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Instructions.txt
+c000000004CB5FA1E0000000000000207
+t1286994462
+s519
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup_Prefix.pch
+c000000004A89C43800000000000000AD
+t1250542648
+s173
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib
+c000000004C86C76A000000000000855B
+t1283901290
+s34139
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib
+c000000004C92B7E00000000000008AB9
+t1284683744
+s35513
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundHipad.png
+c000000004C7EC6F600000000000EEE24
+t1283376886
+s978468
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundVipad.png
+c000000004CB3F52000000000000E025A
+t1286862112
+s918106
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNhorizontalipad.png
+c000000004CB3F56F0000000000000C92
+t1286862191
+s3218
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNverticalipad.png
+c000000004CB3F5410000000000000D1D
+t1286862145
+s3357
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-abciPad.png
+c000000004C98FF440000000000000B0A
+t1285095236
+s2826
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-bowliPad.png
+c000000004C98FF1C000000000000097A
+t1285095196
+s2426
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothHipad.png
+c000000004C7EC83C0000000000010238
+t1283377212
+s66104
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothVipad.png
+c000000004C7EC8130000000000011B3B
+t1283377171
+s72507
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNhorizontalipad.png
+c000000004C7EC7BD0000000000000AFD
+t1283377085
+s2813
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNverticalipad.png
+c000000004C7EC7E6000000000000134F
+t1283377126
+s4943
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-abciPad.png
+c000000004C9BAD4F0000000000000A16
+t1285270863
+s2582
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-bowliPad.png
+c000000004C9BAD9E0000000000000733
+t1285270942
+s1843
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png
+c000000004C672A19000000000002B9B8
+t1281829401
+s178616
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png
+c000000004C6729E9000000000008F63C
+t1281829353
+s587324
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png
+c000000004C67288F00000000000005C0
+t1281829007
+s1472
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png
+c000000004C67282B000000000000093D
+t1281828907
+s2365
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png
+c000000004C7410F60000000000001973
+t1282674934
+s6515
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png
+c000000004C994D350000000000002E51
+t1285115189
+s11857
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png
+c000000004C7410E900000000000018A4
+t1282674921
+s6308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png
+c000000004C741019000000000000339C
+t1282674713
+s13212
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png
+c000000004C7410C20000000000001794
+t1282674882
+s6036
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png
+c000000004C994F130000000000002B76
+t1285115667
+s11126
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png
+c000000004C7410AD0000000000001630
+t1282674861
+s5680
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png
+c000000004C74105F0000000000002C91
+t1282674783
+s11409
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc.png
+c000000004C99008A00000000000006A4
+t1285095562
+s1700
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc@2x.png
+c000000004C99008200000000000007ED
+t1285095554
+s2029
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl.png
+c000000004C9900710000000000000670
+t1285095537
+s1648
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl@2x.png
+c000000004C9900690000000000000648
+t1285095529
+s1608
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png
+c000000004C6728EA00000000000051FE
+t1281829098
+s20990
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png
+c000000004C61C5EE000000000000FDE5
+t1281476078
+s64997
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png
+c000000004C6728F90000000000000EBC
+t1281829113
+s3772
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png
+c000000004C61C5B80000000000001338
+t1281476024
+s4920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc.png
+c000000004C9BAD7F0000000000000644
+t1285270911
+s1604
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc@2x.png
+c000000004C9BAD750000000000000A23
+t1285270901
+s2595
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl.png
+c000000004C9BADAF0000000000000568
+t1285270959
+s1384
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl@2x.png
+c000000004C9BAD9B000000000000072F
+t1285270939
+s1839
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGScrollView.h
+c000000004CB66B310000000000000258
+t1287023409
+s600
+i<UIKit/UIKit.h>
+i"ShadowedUILabel.h"
+i"ShadowedUITextView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib
+c000000004C9952E5000000000000B826
+t1285116645
+s47142
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib
+c000000004CA64E5E000000000000BC9E
+t1285967454
+s48286
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/bigSlurp.caf
+c000000004CB5FE83000000000001FB80
+t1286995587
+s129920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app
+t1287612123
+s1972
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app.dSYM
+t1287612123
+s102
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Default-Landscape.png
+t1287612118
+s588278
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Default-Portrait.png
+t1287612117
+s562953
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Default.png
+t1287612117
+s125994
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Default@2x.png
+t1287612117
+s372095
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Dictionary
+t1287612117
+s871249
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Icon-72.png
+t1287612118
+s10404
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Icon.png
+t1287612117
+s7370
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Icon@2x.png
+t1287612117
+s23113
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Info.plist
+t1287612117
+s935
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Instructions.txt
+t1287612118
+s519
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup
+t1287612123
+s136936
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/MainWindow-iPad.nib
+t1287612118
+s1105
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/MainWindow.nib
+t1287612117
+s1073
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/PkgInfo
+t1287612117
+s8
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/SGViewController.nib
+t1287612118
+s4495
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/SGViewControlleriPad.nib
+t1287612118
+s4700
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/background.png
+t1287612117
+s178616
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/background@2x.png
+t1287612117
+s587324
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/backgroundHipad.png
+t1287612118
+s978468
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/backgroundVipad.png
+t1287612118
+s918106
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/bigSlurp.caf
+t1287612118
+s129920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/click.caf
+t1287612118
+s18880
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menuBTN.png
+t1287612117
+s1472
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menuBTN@2x.png
+t1287612117
+s2365
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menuBTNhorizontalipad.png
+t1287612118
+s3218
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menuBTNverticalipad.png
+t1287612118
+s3357
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton.png
+t1287612117
+s6515
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton@2x.png
+t1287612117
+s11857
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton.png
+t1287612117
+s6308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton@2x.png
+t1287612117
+s13212
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton.png
+t1287612117
+s6036
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton@2x.png
+t1287612117
+s11126
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton.png
+t1287612117
+s5680
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton@2x.png
+t1287612117
+s11409
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-abc.png
+t1287612118
+s1700
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-abc@2x.png
+t1287612118
+s2029
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-abciPad.png
+t1287612118
+s2826
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl.png
+t1287612118
+s1648
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl@2x.png
+t1287612118
+s1608
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/scores-bowliPad.png
+t1287612118
+s2426
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/smallSlurp.caf
+t1287612118
+s60308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth.png
+t1287612117
+s20990
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth@2x.png
+t1287612117
+s64997
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothHipad.png
+t1287612118
+s66104
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothVipad.png
+t1287612118
+s72507
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/submitBTN.png
+t1287612117
+s3772
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/submitBTN@2x.png
+t1287612117
+s4920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/submitBTNhorizontalipad.png
+t1287612118
+s2813
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/submitBTNverticalipad.png
+t1287612118
+s4943
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-abc.png
+t1287612118
+s1604
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-abc@2x.png
+t1287612118
+s2595
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-abciPad.png
+t1287612118
+s2582
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-bowl.png
+t1287612118
+s1384
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-bowl@2x.png
+t1287612118
+s1839
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/title-bowliPad.png
+t1287612118
+s1843
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/undo.caf
+t1287612118
+s81960
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/Letter Soup.LinkFileList
+c000000004CBF66D50000000000000780
+t1287612117
+s1920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/NSMutableArray-MultipleSort.o
+t1287612121
+s10492
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGAppDelegate.o
+t1287612121
+s54556
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGLetterLayer.o
+t1287612121
+s16864
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGScrollView.o
+t1287612122
+s48608
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGTitleLayer.o
+t1287612121
+s24964
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewController.o
+t1287612122
+s119424
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewControlleriPad.o
+t1287612122
+s133420
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGWordView.o
+t1287612121
+s18476
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUILabel.o
+t1287612122
+s38248
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUITextView.o
+t1287612122
+s39652
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/main.o
+t1287612120
+s6344
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/click.caf
+c000000004CB5FE7400000000000049C0
+t1286995572
+s18880
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m
+c000000004CB66B31000000000000015C
+t1287023409
+s348
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/smallSlurp.caf
+c000000004CB5FE9B000000000000EB94
+t1286995611
+s60308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/undo.caf
+c000000004CB5FE890000000000014028
+t1286995593
+s81960
+
+N/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch.gch
+t1287612120
+s14896144
+
+NLetter Soup-Info.plist
+c000000004CB793320000000000000538
+t1287099186
+s1336
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309304917#309304917#0(0"0(0#1#0"8607028448#0"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/NSMutableArray-MultipleSort.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304921.720885
+e309304921.813682
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/NSMutableArray-MultipleSort.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m309304921#309304921#0(0"0(0#0#103"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m8604059776#2449"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/NSMutableArray-MultipleSort.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGAppDelegate.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304920.343833
+e309304921.184057
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGAppDelegate.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m:11:
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: assign attribute (default) not appropriate for non-gc object property 'backgroundImage'
+lSLF07#2@97"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m309304920#309304921#0(502"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m:11:/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: assign attribute (default) not appropriate for non-gc object property 'backgroundImage'2(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed309304921#116#188#2(7@111"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m309304921#18446744073709551615#0#0(6@89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m308445501#11#0#11#0#0"0(13@177"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(22@87"Assign attribute (default) not appropriate for non-gc object property 'backgroundImage'309304921#304#198#2(7@111"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m309304921#18446744073709551615#0#0(6@89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m308445501#11#0#11#0#0"0(13@187"Assign attribute (default) not appropriate for non-gc object property 'backgroundImage' in /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(0#0#89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m8604334368#2421"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGAppDelegate.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGLetterLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304921.413482
+e309304921.527505
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGLetterLayer.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m309304921#309304921#0(0"0(0#0#89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m8604261024#2421"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGLetterLayer.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGScrollView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304922.060076
+e309304922.263945
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGScrollView.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m: In function '-[SGScrollView showInstructions]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m:91: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)
+lSLF07#2@99"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m309304922#309304922#0(456"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m: In function '-[SGScrollView showInstructions]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m:91: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)1(22@209"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)309304922#141#315#0(6@91"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m308716209#91#0#91#0#33"'*' is deprecated (declared at *)0(0#0#91"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m8604779520#2422"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGScrollView.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGTitleLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304921.184153
+e309304921.413386
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGTitleLayer.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m: In function '-[SGTitleLayer init]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:42: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:43: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:63: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:64: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m: At top level:
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: incomplete implementation of class 'SGTitleLayer'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: method definition for '-setTitleWithTime:withScore:' not found
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: method definition for '-setOrientation' not found
+lSLF07#2@96"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m309304921#309304921#0(1382"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m: In function '-[SGTitleLayer init]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:42: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:43: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:63: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:64: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m: At top level:/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: incomplete implementation of class 'SGTitleLayer'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: method definition for '-setTitleWithTime:withScore:' not found/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m:170: warning: method definition for '-setOrientation' not found8(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#126#170#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#42#0#42#0#56"passing argument * of '*' from incompatible pointer type0(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#296#170#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#43#0#43#0#56"passing argument * of '*' from incompatible pointer type0(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#466#170#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#63#0#63#0#56"passing argument * of '*' from incompatible pointer type0(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#636#170#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#64#0#64#0#56"passing argument * of '*' from incompatible pointer type0(23@13"At top level:309304921#806#104#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#0#0#0#0#0"0(22@49"Incomplete implementation of class 'SGTitleLayer'309304921#910#153#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#170#0#170#0#38"incomplete implementation of class '*'0(22@62"Method definition for '-setTitleWithTime:withScore:' not found309304921#1063#166#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#170#0#170#0#35"method definition for '*' not found0(22@49"Method definition for '-setOrientation' not found309304921#1229#153#0(6@88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m308601186#170#0#170#0#35"method definition for '*' not found0(0#0#88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m8021791036977476608#2419"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGTitleLayer.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewController.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304920.655269
+e309304922.059898
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewController.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController viewDidLoad]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:80: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController populateDictionary]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:139: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController saveScores]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:691: warning: format not a string literal and no format arguments
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:710: warning: format not a string literal and no format arguments
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController loadScores]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:729: warning: format not a string literal and no format arguments
+lSLF07#2@100"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m309304920#309304922#0(1423"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController viewDidLoad]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:80: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController populateDictionary]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:139: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController saveScores]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:691: warning: format not a string literal and no format arguments/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:710: warning: format not a string literal and no format arguments/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m: In function '-[SGViewController loadScores]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m:729: warning: format not a string literal and no format arguments5(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#141#174#0(6@92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m308700255#80#0#80#0#56"passing argument * of '*' from incompatible pointer type0(22@95"Incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'309304921#463#203#0(6@92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m308700255#139#0#139#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@51"Format not a string literal and no format arguments309304921#806#159#0(6@92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m308700255#691#0#691#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments309304921#965#159#0(6@92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m308700255#710#0#710#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments309304921#1264#159#0(6@92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m308700255#729#0#729#0#51"format not a string literal and no format arguments0(0#0#92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m8607570848#2427"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewController.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewControlleriPad.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304921.813773
+e309304922.874679
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewControlleriPad.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:9:
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: assign attribute (default) not appropriate for non-gc object property 'backgroundImage'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad viewDidLoad]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: 'SGTitleLayer' may not respond to '-setOrientation:'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: (Messages without a matching method signature
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: will be assumed to return 'id' and accept
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: '...' as arguments.)
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad populateDictionary]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:139: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad orientationChanged:]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:208: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:211: warning: passing argument 1 of 'setContents:' from incompatible pointer type
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad saveScores]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:717: warning: format not a string literal and no format arguments
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:730: warning: format not a string literal and no format arguments
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad loadScores]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:750: warning: format not a string literal and no format arguments
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:737: warning: unused variable 'textForScoreView'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad rotateSoup:]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:767: warning: unused variable 'nonrandomNumber'
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad didRotateFromInterfaceOrientation:]':
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:825: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:826: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:843: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast
+o/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:844: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast
+lSLF07#2@104"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m309304921#309304922#0(4318"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:9:/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h:90: warning: assign attribute (default) not appropriate for non-gc object property 'backgroundImage'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad viewDidLoad]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: 'SGTitleLayer' may not respond to '-setOrientation:'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: (Messages without a matching method signature/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: will be assumed to return 'id' and accept/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:57: warning: '...' as arguments.)/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad populateDictionary]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:139: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad orientationChanged:]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:208: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:211: warning: passing argument 1 of 'setContents:' from incompatible pointer type/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad saveScores]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:717: warning: format not a string literal and no format arguments/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:730: warning: format not a string literal and no format arguments/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad loadScores]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:750: warning: format not a string literal and no format arguments/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:737: warning: unused variable 'textForScoreView'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad rotateSoup:]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:767: warning: unused variable 'nonrandomNumber'/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m: In function '-[SGViewControlleriPad didRotateFromInterfaceOrientation:]':/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:825: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:826: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:843: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m:844: warning: passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast16(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed309304921#122#188#2(7@118"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#9#0#9#0#0"0(13@177"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(22@87"Assign attribute (default) not appropriate for non-gc object property 'backgroundImage'309304921#310#198#2(7@118"In file included from /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#9#0#9#0#0"0(13@187"Assign attribute (default) not appropriate for non-gc object property 'backgroundImage' in /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h309304921#18446744073709551615#0#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h308681240#90#0#90#0#0"0(22@52"'SGTitleLayer' may not respond to '-setOrientation:'309304921#657#163#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#57#0#57#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)309304921#820#156#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#57#0#57#0#0"0(22@95"Incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'309304921#1415#207#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#139#0#139#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#1779#179#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#208#0#208#0#56"passing argument * of '*' from incompatible pointer type0(22@67"Passing argument 1 of 'setContents:' from incompatible pointer type309304921#1958#179#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#211#0#211#0#56"passing argument * of '*' from incompatible pointer type0(22@51"Format not a string literal and no format arguments309304921#2285#163#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#717#0#717#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments309304921#2448#163#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#730#0#730#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments309304921#2759#163#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#750#0#750#0#51"format not a string literal and no format arguments0(22@34"Unused variable 'textForScoreView'309304921#2922#146#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#737#0#737#0#19"unused variable '*'0(22@33"Unused variable 'nonrandomNumber'309304921#3217#145#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#767#0#767#0#19"unused variable '*'0(22@84"Passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast309304921#3534#196#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#825#0#825#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@84"Passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast309304921#3730#196#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#826#0#826#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@84"Passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast309304921#3926#196#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#843#0#843#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@84"Passing argument 2 of 'setImage:forState:' makes integer from pointer without a cast309304921#4122#196#0(6@96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m308700388#844#0#844#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#96"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m8602294560#2435"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGViewControlleriPad.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGWordView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304921.527601
+e309304921.720782
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGWordView.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m309304921#309304921#0(0"0(0#0#86"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m8604611360#2415"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/SGWordView.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUILabel.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304922.264035
+e309304922.354675
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUILabel.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m309304922#309304922#0(0"0(0#0#91"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m8605584320#2425"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUILabel.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUITextView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304922.354767
+e309304922.491194
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUITextView.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m309304922#309304922#0(0"0(0#0#94"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m8604811776#2431"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/ShadowedUITextView.o"0#
+
+CCompileC "build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/main.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304920.342483
+e309304920.655169
+r1
+xCompileC
+xbuild/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/main.o
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m309304920#309304920#0(0"0(0#0#72"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m8606980864#2395"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -include "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib"
+s309304917.124934
+e309304917.693513
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309304917#309304917#0(0"0(0#0#80"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib8607604992#668"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/MainWindow.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib"
+s309304917.746423
+e309304918.327511
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib309304917#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib8602388096#693"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/MainWindow-iPad.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib"
+s309304917.126550
+e309304918.038315
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib
+lSLF07#2@31"CompileXIB SGViewController.xib309304917#309304918#0(0"0(0#0#86"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib8607006400#680"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/SGViewController.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib"
+s309304918.049224
+e309304918.765823
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib
+lSLF07#2@35"CompileXIB SGViewControlleriPad.xib309304918#309304918#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib8605353792#688"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/SGViewControlleriPad.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default-Landscape.png" Default-Landscape.png
+s309304918.353675
+e309304918.442942
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png309304918#309304918#0(0"0(0#0#87"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Landscape.png8607440480#584"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Landscape.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default-Portrait.png" Default-Portrait.png
+s309304917.730797
+e309304917.754872
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@25"Copy Default-Portrait.png309304917#309304917#0(0"0(0#0#86"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png8603661312#583"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default.png" Default.png
+s309304917.721370
+e309304917.740824
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png309304917#309304917#0(0"0(0#0#77"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png8604907232#574"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Default@2x.png" Default@2x.png
+s309304917.724095
+e309304917.743542
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png309304917#309304917#0(0"0(0#0#80"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png8604067904#577"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Dictionary" Dictionary
+s309304917.702186
+e309304917.730723
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Dictionary
+xDictionary
+lSLF07#2@15"Copy Dictionary309304917#309304917#0(0"0(0#0#76"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary8607272480#573"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon-72.png" Icon-72.png
+s309304918.355412
+e309304918.377620
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Icon-72.png
+xIcon-72.png
+lSLF07#2@16"Copy Icon-72.png309304918#309304918#0(0"0(0#0#77"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon-72.png8607315552#574"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon-72.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon.png" Icon.png
+s309304917.703707
+e309304917.712623
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png309304917#309304917#0(0"0(0#0#74"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png8606975328#571"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Icon@2x.png" Icon@2x.png
+s309304917.727846
+e309304917.750433
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png309304917#309304917#0(0"0(0#0#77"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png8599789760#574"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/Instructions.txt" Instructions.txt
+s309304918.357204
+e309304918.391235
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/Instructions.txt
+xInstructions.txt
+lSLF07#2@21"Copy Instructions.txt309304918#309304918#0(0"0(0#0#82"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Instructions.txt8606895648#579"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Instructions.txt" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/background.png" Resources/background.png
+s309304917.693598
+e309304917.707000
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/background.png
+xResources/background.png
+lSLF07#2@29"Copy Resources/background.png309304917#309304917#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png8608008000#587"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/background@2x.png" Resources/background@2x.png
+s309304917.708766
+e309304917.746353
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/background@2x.png
+xResources/background@2x.png
+lSLF07#2@32"Copy Resources/background@2x.png309304917#309304917#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png8605189280#590"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/backgroundHipad.png" Resources-iPad/backgroundHipad.png
+s309304918.038402
+e309304918.139113
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/backgroundHipad.png
+xResources-iPad/backgroundHipad.png
+lSLF07#2@39"Copy Resources-iPad/backgroundHipad.png309304918#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundHipad.png8607928064#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundHipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/backgroundVipad.png" Resources-iPad/backgroundVipad.png
+s309304918.039314
+e309304918.118630
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/backgroundVipad.png
+xResources-iPad/backgroundVipad.png
+lSLF07#2@39"Copy Resources-iPad/backgroundVipad.png309304918#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundVipad.png8607599168#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundVipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/bigSlurp.caf" bigSlurp.caf
+s309304918.359050
+e309304918.403899
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/bigSlurp.caf
+xbigSlurp.caf
+lSLF07#2@17"Copy bigSlurp.caf309304918#309304918#0(0"0(0#0#78"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/bigSlurp.caf8605628352#575"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/bigSlurp.caf" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/click.caf" click.caf
+s309304918.371189
+e309304918.391442
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/click.caf
+xclick.caf
+lSLF07#2@14"Copy click.caf309304918#309304918#0(0"0(0#0#75"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/click.caf8604236288#572"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/click.caf" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTN.png" Resources/menuBTN.png
+s309304917.705238
+e309304917.724030
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menuBTN.png
+xResources/menuBTN.png
+lSLF07#2@26"Copy Resources/menuBTN.png309304917#309304917#0(0"0(0#0#87"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png8606897344#584"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTN@2x.png" Resources/menuBTN@2x.png
+s309304917.712708
+e309304917.759692
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menuBTN@2x.png
+xResources/menuBTN@2x.png
+lSLF07#2@29"Copy Resources/menuBTN@2x.png309304917#309304917#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png8604500000#587"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTNhorizontalipad.png" Resources-iPad/menuBTNhorizontalipad.png
+s309304918.039979
+e309304918.063150
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menuBTNhorizontalipad.png
+xResources-iPad/menuBTNhorizontalipad.png
+lSLF07#2@45"Copy Resources-iPad/menuBTNhorizontalipad.png309304918#309304918#0(0"0(0#0#106"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNhorizontalipad.png8607412096#603"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNhorizontalipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menuBTNverticalipad.png" Resources-iPad/menuBTNverticalipad.png
+s309304918.041472
+e309304918.063843
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menuBTNverticalipad.png
+xResources-iPad/menuBTNverticalipad.png
+lSLF07#2@43"Copy Resources-iPad/menuBTNverticalipad.png309304918#309304918#0(0"0(0#0#104"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNverticalipad.png8607166752#601"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNverticalipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton.png" Resources/menu_newGameButton.png
+s309304917.694442
+e309304917.717545
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton.png
+xResources/menu_newGameButton.png
+lSLF07#2@37"Copy Resources/menu_newGameButton.png309304917#309304917#0(0"0(0#0#98"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png8607855584#595"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton@2x.png" Resources/menu_newGameButton@2x.png
+s309304917.733711
+e309304917.758478
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_newGameButton@2x.png
+xResources/menu_newGameButton@2x.png
+lSLF07#2@40"Copy Resources/menu_newGameButton@2x.png309304917#309304917#0(0"0(0#0#101"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png8605540640#598"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton.png" Resources/menu_recipeButton.png
+s309304917.695973
+e309304917.721303
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton.png
+xResources/menu_recipeButton.png
+lSLF07#2@36"Copy Resources/menu_recipeButton.png309304917#309304917#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png8607685728#594"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton@2x.png" Resources/menu_recipeButton@2x.png
+s309304917.737062
+e309304917.748143
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_recipeButton@2x.png
+xResources/menu_recipeButton@2x.png
+lSLF07#2@39"Copy Resources/menu_recipeButton@2x.png309304917#309304917#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png8604793184#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton.png" Resources/menu_resumeButton.png
+s309304917.697516
+e309304917.708706
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton.png
+xResources/menu_resumeButton.png
+lSLF07#2@36"Copy Resources/menu_resumeButton.png309304917#309304917#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png8607533632#594"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton@2x.png" Resources/menu_resumeButton@2x.png
+s309304917.740890
+e309304917.761019
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_resumeButton@2x.png
+xResources/menu_resumeButton@2x.png
+lSLF07#2@39"Copy Resources/menu_resumeButton@2x.png309304917#309304917#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png8603887712#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton.png" Resources/menu_scoresButton.png
+s309304917.699044
+e309304917.727783
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton.png
+xResources/menu_scoresButton.png
+lSLF07#2@36"Copy Resources/menu_scoresButton.png309304917#309304917#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png8607427968#594"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton@2x.png" Resources/menu_scoresButton@2x.png
+s309304917.743618
+e309304917.783519
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/menu_scoresButton@2x.png
+xResources/menu_scoresButton@2x.png
+lSLF07#2@39"Copy Resources/menu_scoresButton@2x.png309304917#309304917#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png8604538816#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abc.png" Resources/scores-abc.png
+s309304918.333962
+e309304918.371096
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-abc.png
+xResources/scores-abc.png
+lSLF07#2@29"Copy Resources/scores-abc.png309304918#309304918#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc.png8600641344#587"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abc@2x.png" Resources/scores-abc@2x.png
+s309304918.335520
+e309304918.377056
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-abc@2x.png
+xResources/scores-abc@2x.png
+lSLF07#2@32"Copy Resources/scores-abc@2x.png309304918#309304918#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc@2x.png8607846816#590"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-abciPad.png" Resources-iPad/scores-abciPad.png
+s309304918.327593
+e309304918.341923
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-abciPad.png
+xResources-iPad/scores-abciPad.png
+lSLF07#2@38"Copy Resources-iPad/scores-abciPad.png309304918#309304918#0(0"0(0#0#99"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-abciPad.png8602033216#596"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-abciPad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl.png" Resources/scores-bowl.png
+s309304918.337080
+e309304918.358979
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-bowl.png
+xResources/scores-bowl.png
+lSLF07#2@30"Copy Resources/scores-bowl.png309304918#309304918#0(0"0(0#0#91"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl.png8605200352#588"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowl@2x.png" Resources/scores-bowl@2x.png
+s309304918.338635
+e309304918.355351
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-bowl@2x.png
+xResources/scores-bowl@2x.png
+lSLF07#2@33"Copy Resources/scores-bowl@2x.png309304918#309304918#0(0"0(0#0#94"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl@2x.png8604024320#591"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/scores-bowliPad.png" Resources-iPad/scores-bowliPad.png
+s309304918.329311
+e309304918.342025
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/scores-bowliPad.png
+xResources-iPad/scores-bowliPad.png
+lSLF07#2@39"Copy Resources-iPad/scores-bowliPad.png309304918#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-bowliPad.png8606974816#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-bowliPad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/smallSlurp.caf" smallSlurp.caf
+s309304918.360606
+e309304918.401858
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/smallSlurp.caf
+xsmallSlurp.caf
+lSLF07#2@19"Copy smallSlurp.caf309304918#309304918#0(0"0(0#0#80"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/smallSlurp.caf8605433280#577"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/smallSlurp.caf" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth.png" Resources/spoonBroth.png
+s309304917.700590
+e309304917.715356
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/spoonBroth.png
+xResources/spoonBroth.png
+lSLF07#2@29"Copy Resources/spoonBroth.png309304917#309304917#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png8607395136#587"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBroth@2x.png" Resources/spoonBroth@2x.png
+s309304917.715475
+e309304917.733645
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/spoonBroth@2x.png
+xResources/spoonBroth@2x.png
+lSLF07#2@32"Copy Resources/spoonBroth@2x.png309304917#309304917#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png8601546272#590"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothHipad.png" Resources-iPad/spoonBrothHipad.png
+s309304918.043092
+e309304918.098627
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/spoonBrothHipad.png
+xResources-iPad/spoonBrothHipad.png
+lSLF07#2@39"Copy Resources-iPad/spoonBrothHipad.png309304918#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothHipad.png8606935520#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothHipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/spoonBrothVipad.png" Resources-iPad/spoonBrothVipad.png
+s309304918.044614
+e309304918.098168
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/spoonBrothVipad.png
+xResources-iPad/spoonBrothVipad.png
+lSLF07#2@39"Copy Resources-iPad/spoonBrothVipad.png309304918#309304918#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothVipad.png8606831680#597"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothVipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTN.png" Resources/submitBTN.png
+s309304917.707070
+e309304917.759993
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/submitBTN.png
+xResources/submitBTN.png
+lSLF07#2@28"Copy Resources/submitBTN.png309304917#309304917#0(0"0(0#0#89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png8606826240#586"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTN@2x.png" Resources/submitBTN@2x.png
+s309304917.717849
+e309304917.736997
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/submitBTN@2x.png
+xResources/submitBTN@2x.png
+lSLF07#2@31"Copy Resources/submitBTN@2x.png309304917#309304917#0(0"0(0#0#92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png8604180384#589"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTNhorizontalipad.png" Resources-iPad/submitBTNhorizontalipad.png
+s309304918.046153
+e309304918.065435
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/submitBTNhorizontalipad.png
+xResources-iPad/submitBTNhorizontalipad.png
+lSLF07#2@47"Copy Resources-iPad/submitBTNhorizontalipad.png309304918#309304918#0(0"0(0#0#108"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNhorizontalipad.png8605652448#605"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNhorizontalipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/submitBTNverticalipad.png" Resources-iPad/submitBTNverticalipad.png
+s309304918.047697
+e309304918.066045
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/submitBTNverticalipad.png
+xResources-iPad/submitBTNverticalipad.png
+lSLF07#2@45"Copy Resources-iPad/submitBTNverticalipad.png309304918#309304918#0(0"0(0#0#106"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNverticalipad.png8605482880#603"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNverticalipad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abc.png" Resources/title-abc.png
+s309304918.340187
+e309304918.365603
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-abc.png
+xResources/title-abc.png
+lSLF07#2@28"Copy Resources/title-abc.png309304918#309304918#0(0"0(0#0#89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc.png8601045856#586"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abc@2x.png" Resources/title-abc@2x.png
+s309304918.342120
+e309304918.358869
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-abc@2x.png
+xResources/title-abc@2x.png
+lSLF07#2@31"Copy Resources/title-abc@2x.png309304918#309304918#0(0"0(0#0#92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc@2x.png8603961056#589"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-abciPad.png" Resources-iPad/title-abciPad.png
+s309304918.330877
+e309304918.357140
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-abciPad.png
+xResources-iPad/title-abciPad.png
+lSLF07#2@37"Copy Resources-iPad/title-abciPad.png309304918#309304918#0(0"0(0#0#98"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-abciPad.png8605590304#595"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-abciPad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowl.png" Resources/title-bowl.png
+s309304918.343622
+e309304918.353610
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-bowl.png
+xResources/title-bowl.png
+lSLF07#2@29"Copy Resources/title-bowl.png309304918#309304918#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl.png8608004576#587"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowl@2x.png" Resources/title-bowl@2x.png
+s309304918.351317
+e309304918.376431
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-bowl@2x.png
+xResources/title-bowl@2x.png
+lSLF07#2@32"Copy Resources/title-bowl@2x.png309304918#309304918#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl@2x.png8607828352#590"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/title-bowliPad.png" Resources-iPad/title-bowliPad.png
+s309304918.332412
+e309304918.351228
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/title-bowliPad.png
+xResources-iPad/title-bowliPad.png
+lSLF07#2@38"Copy Resources-iPad/title-bowliPad.png309304918#309304918#0(0"0(0#0#99"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-bowliPad.png8604961440#596"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-bowliPad.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphonesimulator/Letter Soup.app/undo.caf" undo.caf
+s309304918.365682
+e309304918.404626
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/Letter Soup.app/undo.caf
+xundo.caf
+lSLF07#2@13"Copy undo.caf309304918#309304918#0(0"0(0#0#74"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/undo.caf8604972032#571"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/undo.caf" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+
+CGenerateDSYMFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app.dSYM" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup"
+s309304923.215215
+e309304923.314108
+r1
+xGenerateDSYMFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app.dSYM
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup
+lSLF07#2@139"GenerateDSYMFile "build/Distribution-iphonesimulator/Letter Soup.app.dSYM" "build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup"309304923#309304923#0(0"0(0#0#128"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup8606753312#496"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app.dSYM"0#
+
+CLd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup" normal i386
+s309304922.874784
+e309304923.215125
+r1
+xLd
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup
+xnormal
+xi386
+lSLF07#2@133"Link /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup309304922#309304923#0(0"0(0#0#0"8603904800#1165"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" -filelist "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Objects-normal/i386/Letter Soup.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework QuartzCore -framework CoreFoundation -framework Foundation -framework UIKit -framework AudioToolbox -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Letter Soup"0#
+
+CProcessInfoPlistFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Info.plist" "Letter Soup-Info.plist"
+s309304917.116814
+e309304917.124862
+r1
+xProcessInfoPlistFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Info.plist
+xLetter Soup-Info.plist
+lSLF07#2@30"Process Letter Soup-Info.plist309304917#309304917#0(0"0(0#0#88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup-Info.plist8601313344#594"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Letter Soup-Info.plist" -genpkginfo "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app/Info.plist"0#
+
+CProcessPCH "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch.gch" "Letter Soup_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309304918.766072
+e309304920.342209
+r1
+xProcessPCH
+x/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch.gch
+xLetter Soup_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Letter Soup_Prefix.pch309304918#309304920#0(0"0(0#0#88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup_Prefix.pch8599714048#2247"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-generated-files.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-own-target-headers.hmap" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-all-target-headers.hmap" -iquote "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/Letter Soup-project-headers.hmap" "-F/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/include" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources/i386" "-I/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphonesimulator/Letter Soup.build/DerivedSources" -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup_Prefix.pch" -o "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dcxeiwxuciiwsmayyrpssuxlpwgy/Letter Soup_Prefix.pch.gch"0#
+
+CTouch "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"
+s309304923.314191
+e309304923.333530
+r1
+xTouch
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app
+lSLF07#2@122"Touch /Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app309304923#309304923#0(0"0(0#0#0"8605189888#347"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphonesimulator/Letter Soup.app"0#
+

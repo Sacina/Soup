@@ -1,0 +1,1329 @@
+TLetter Soup
+v7
+r3
+t309304916.090165
+cCheck dependencies
+cCpResource "build/Distribution-iphoneos/Letter Soup.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Info.plist" "Letter Soup-Info.plist"
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib"
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib"
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background.png" Resources/background.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png" Resources/menu_newGameButton.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png" Resources/menu_recipeButton.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png" Resources/menu_resumeButton.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png" Resources/menu_scoresButton.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png" Resources/spoonBroth.png
+cCpResource "build/Distribution-iphoneos/Letter Soup.app/Dictionary" Dictionary
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon.png" Icon.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN.png" Resources/menuBTN.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN.png" Resources/submitBTN.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background@2x.png" Resources/background@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png" Resources/menuBTN@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png" Resources/spoonBroth@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png" Resources/submitBTN@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default.png" Default.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default@2x.png" Default@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png" Icon@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png" Default-Portrait.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png" Resources/menu_newGameButton@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png" Resources/menu_recipeButton@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png" Resources/menu_resumeButton@2x.png
+cCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png" Resources/menu_scoresButton@2x.png
+cCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004C5A51980000000000000A23
+t1280987544
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004C5A4FC000000000003834C0
+t1280987072
+s3683520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004C5A4FA4000000000000B1F9
+t1280987044
+s45561
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStringTokenizer.h
+c000000004C5A4FA40000000000003056
+t1280987044
+s12374
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004C5A4FF800000000000004FE
+t1280987128
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A556300000000000000C4
+t1280988515
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A56D600000000002573D0
+t1280988886
+s2454480
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004AD8432000000000004C9980
+t1255686944
+s5020032
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m
+c000000004CB66B310000000000000F42
+t1287023409
+s3906
+i"SGScrollView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.h
+c000000004AE76025000000000000080D
+t1256677413
+s2061
+i<Foundation/Foundation.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m
+c000000004AE760360000000000000C37
+t1256677430
+s3127
+i"NSMutableArray-MultipleSort.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.h
+c000000004C8027F60000000000000280
+t1283467254
+s640
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m
+c000000004CB249BD00000000000005B8
+t1286752701
+s1464
+i"SGAppDelegate.h"
+i"SGViewController.h"
+i"SGViewControlleriPad.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.h
+c000000004C77043600000000000001E3
+t1282868278
+s483
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m
+c000000004CB627D700000000000008C0
+t1287006167
+s2240
+i"SGLetterLayer.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.h
+c000000004CB3F9230000000000000472
+t1286863139
+s1138
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m
+c000000004CB4A9E20000000000001901
+t1286908386
+s6401
+i"SGTitleLayer.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.h
+c000000004CB385300000000000000C6E
+t1286833456
+s3182
+i<UIKit/UIKit.h>
+i<CoreFoundation/CFStringTokenizer.h>
+i<CoreFoundation/CFString.h>
+i"SGLetterLayer.h"
+i"SGTitleLayer.h"
+i"SGWordView.h"
+i"NSMutableArray-MultipleSort.h"
+i"SGScrollView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m
+c000000004CB62CDF0000000000006924
+t1287007455
+s26916
+i"SGViewController.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.h
+c000000004CB5E2980000000000000D87
+t1286988440
+s3463
+i<UIKit/UIKit.h>
+i<CoreFoundation/CFStringTokenizer.h>
+i<CoreFoundation/CFString.h>
+i"SGLetterLayer.h"
+i"SGTitleLayer.h"
+i"SGWordView.h"
+i"NSMutableArray-MultipleSort.h"
+i"SGScrollView.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m
+c000000004CB62D64000000000000768E
+t1287007588
+s30350
+i"SGViewControlleriPad.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.h
+c000000004CB4EF3E00000000000002C6
+t1286926142
+s710
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m
+c000000004CB62A1A0000000000000D8A
+t1287006746
+s3466
+i"SGWordView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.h
+c000000004CB66B2D00000000000000E6
+t1287023405
+s230
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m
+c000000004CB5F86C000000000000055D
+t1286994028
+s1373
+i"ShadowedUILabel.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.h
+c000000004CA66AC200000000000000EC
+t1285974722
+s236
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m
+c000000004CB62EA200000000000006A7
+t1287007906
+s1703
+i"ShadowedUITextView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Landscape.png
+c000000004CB403BF000000000008F9F6
+t1286865855
+s588278
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png
+c000000004CB4037F0000000000089709
+t1286865791
+s562953
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png
+c000000004CB53215000000000001EC2A
+t1286943253
+s125994
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png
+c000000004C7412B8000000000005AD7F
+t1282675384
+s372095
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary
+c000000004CB404DA00000000000D4B51
+t1286866138
+s871249
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon-72.png
+c000000004CB4060700000000000028A4
+t1286866439
+s10404
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png
+c000000004CB4061A0000000000001CCA
+t1286866458
+s7370
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png
+c000000004CB406140000000000005A49
+t1286866452
+s23113
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Instructions.txt
+c000000004CB5FA1E0000000000000207
+t1286994462
+s519
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup_Prefix.pch
+c000000004A89C43800000000000000AD
+t1250542648
+s173
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib
+c000000004C86C76A000000000000855B
+t1283901290
+s34139
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib
+c000000004C92B7E00000000000008AB9
+t1284683744
+s35513
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundHipad.png
+c000000004C7EC6F600000000000EEE24
+t1283376886
+s978468
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/backgroundVipad.png
+c000000004CB3F52000000000000E025A
+t1286862112
+s918106
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNhorizontalipad.png
+c000000004CB3F56F0000000000000C92
+t1286862191
+s3218
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/menuBTNverticalipad.png
+c000000004CB3F5410000000000000D1D
+t1286862145
+s3357
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-abciPad.png
+c000000004C98FF440000000000000B0A
+t1285095236
+s2826
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/scores-bowliPad.png
+c000000004C98FF1C000000000000097A
+t1285095196
+s2426
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothHipad.png
+c000000004C7EC83C0000000000010238
+t1283377212
+s66104
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/spoonBrothVipad.png
+c000000004C7EC8130000000000011B3B
+t1283377171
+s72507
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNhorizontalipad.png
+c000000004C7EC7BD0000000000000AFD
+t1283377085
+s2813
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/submitBTNverticalipad.png
+c000000004C7EC7E6000000000000134F
+t1283377126
+s4943
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-abciPad.png
+c000000004C9BAD4F0000000000000A16
+t1285270863
+s2582
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/title-bowliPad.png
+c000000004C9BAD9E0000000000000733
+t1285270942
+s1843
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png
+c000000004C672A19000000000002B9B8
+t1281829401
+s178616
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png
+c000000004C6729E9000000000008F63C
+t1281829353
+s587324
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png
+c000000004C67288F00000000000005C0
+t1281829007
+s1472
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png
+c000000004C67282B000000000000093D
+t1281828907
+s2365
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png
+c000000004C7410F60000000000001973
+t1282674934
+s6515
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png
+c000000004C994D350000000000002E51
+t1285115189
+s11857
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png
+c000000004C7410E900000000000018A4
+t1282674921
+s6308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png
+c000000004C741019000000000000339C
+t1282674713
+s13212
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png
+c000000004C7410C20000000000001794
+t1282674882
+s6036
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png
+c000000004C994F130000000000002B76
+t1285115667
+s11126
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png
+c000000004C7410AD0000000000001630
+t1282674861
+s5680
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png
+c000000004C74105F0000000000002C91
+t1282674783
+s11409
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc.png
+c000000004C99008A00000000000006A4
+t1285095562
+s1700
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-abc@2x.png
+c000000004C99008200000000000007ED
+t1285095554
+s2029
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl.png
+c000000004C9900710000000000000670
+t1285095537
+s1648
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/scores-bowl@2x.png
+c000000004C9900690000000000000648
+t1285095529
+s1608
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png
+c000000004C6728EA00000000000051FE
+t1281829098
+s20990
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png
+c000000004C61C5EE000000000000FDE5
+t1281476078
+s64997
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png
+c000000004C6728F90000000000000EBC
+t1281829113
+s3772
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png
+c000000004C61C5B80000000000001338
+t1281476024
+s4920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc.png
+c000000004C9BAD7F0000000000000644
+t1285270911
+s1604
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-abc@2x.png
+c000000004C9BAD750000000000000A23
+t1285270901
+s2595
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl.png
+c000000004C9BADAF0000000000000568
+t1285270959
+s1384
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/title-bowl@2x.png
+c000000004C9BAD9B000000000000072F
+t1285270939
+s1839
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGScrollView.h
+c000000004CB66B310000000000000258
+t1287023409
+s600
+i<UIKit/UIKit.h>
+i"ShadowedUILabel.h"
+i"ShadowedUITextView.h"
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib
+c000000004C9952E5000000000000B826
+t1285116645
+s47142
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib
+c000000004CA64E5E000000000000BC9E
+t1285967454
+s48286
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/bigSlurp.caf
+c000000004CB5FE83000000000001FB80
+t1286995587
+s129920
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app.dSYM
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Landscape.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default.png
+t1287612111
+s140681
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default@2x.png
+t1287612115
+s399596
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Dictionary
+t1287612108
+s871249
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon-72.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon.png
+t1287612108
+s8648
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png
+t1287612112
+s24842
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Info.plist
+t1287612098
+s1067
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Instructions.txt
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Letter Soup
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/MainWindow.nib
+t1287612107
+s1073
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/PkgInfo
+t1287612098
+s8
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/ResourceRules.plist
+t1287612098
+s485
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/SGViewController.nib
+t1287612107
+s4490
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/SGViewControlleriPad.nib
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background.png
+t1287612109
+s202790
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background@2x.png
+t1287612112
+s656832
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/backgroundHipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/backgroundVipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/bigSlurp.caf
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/click.caf
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN.png
+t1287612108
+s1466
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png
+t1287612109
+s2307
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTNhorizontalipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTNverticalipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png
+t1287612108
+s7047
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png
+t1287612115
+s12131
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png
+t1287612108
+s6527
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png
+t1287612115
+s13336
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png
+t1287612108
+s6220
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png
+t1287612115
+s10748
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png
+t1287612108
+s5582
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png
+t1287612115
+s10786
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abc.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abc@2x.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abciPad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowl.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowl@2x.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowliPad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/smallSlurp.caf
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png
+t1287612108
+s18638
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png
+t1287612109
+s54166
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBrothHipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBrothVipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN.png
+t1287612108
+s4574
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png
+t1287612110
+s4225
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTNhorizontalipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTNverticalipad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abc.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abc@2x.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abciPad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowl.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowl@2x.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowliPad.png
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/undo.caf
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Letter Soup.xcent
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/Letter Soup
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/Letter Soup.LinkFileList
+c000000004CBF66C2000000000000073E
+t1287612098
+s1854
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/NSMutableArray-MultipleSort.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGAppDelegate.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGLetterLayer.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGScrollView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGTitleLayer.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGViewController.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGViewControlleriPad.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGWordView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/ShadowedUILabel.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/ShadowedUITextView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/Letter Soup
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/Letter Soup.LinkFileList
+c000000004CBF66C2000000000000073E
+t1287612098
+s1854
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/NSMutableArray-MultipleSort.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGAppDelegate.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGLetterLayer.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGScrollView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGTitleLayer.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGViewController.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGViewControlleriPad.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGWordView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/ShadowedUILabel.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/ShadowedUITextView.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/click.caf
+c000000004CB5FE7400000000000049C0
+t1286995572
+s18880
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m
+c000000004CB66B31000000000000015C
+t1287023409
+s348
+i<UIKit/UIKit.h>
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/smallSlurp.caf
+c000000004CB5FE9B000000000000EB94
+t1286995611
+s60308
+
+N/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/undo.caf
+c000000004CB5FE890000000000014028
+t1286995593
+s81960
+
+N/Users/brien/Library/MobileDevice/Provisioning Profiles/1B7BB461-A74F-4DBE-B7B5-1CCCDA557A0E.mobileprovision
+c000000004CB78E4B0000000000001B92
+t1287097931
+s7058
+
+N/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dsznqncwhsldrwaafrgysfwjakjx/Letter Soup_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-elcnwfhjqejhlydvvsiisbbpdgsp/Letter Soup_Prefix.pch.gch
+t2
+s0
+
+NLetter Soup-Info.plist
+c000000004CB793320000000000000538
+t1287099186
+s1336
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309304895#309304898#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCodeSign "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app"
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/NSMutableArray-MultipleSort.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGAppDelegate.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGLetterLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGScrollView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGTitleLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGViewController.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGViewControlleriPad.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/SGWordView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/ShadowedUILabel.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/ShadowedUITextView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/main.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/NSMutableArray-MultipleSort.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/NSMutableArray-MultipleSort.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGAppDelegate.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGLetterLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGLetterLayer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGScrollView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/../SGScrollView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGTitleLayer.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGTitleLayer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGViewController.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGViewControlleriPad.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGViewControlleriPad.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/SGWordView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/SGWordView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/ShadowedUILabel.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUILabel.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/ShadowedUITextView.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Classes/ShadowedUITextView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/main.o" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib"
+s309304898.625709
+e309304907.419913
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309304898#309304907#0(0"0(0#0#80"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib8607523072#640"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/MainWindow.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib"
+s309304915.608808
+e309304915.989198
+r0
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib309304915#309304915#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib8607749792#665"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/MainWindow-iPad.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources-iPad/MainWindow-iPad.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk2#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib"
+s309304898.626432
+e309304908.221120
+r1
+xCompileXIB
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib
+lSLF07#2@31"CompileXIB SGViewController.xib309304898#309304908#0(0"0(0#0#86"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib8607331392#652"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/SGViewController.nib" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/SGViewControlleriPad.xib"
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Landscape.png" Default-Landscape.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png" Default-Portrait.png
+s309304912.945149
+e309304916.090090
+r0
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@99"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png" Default-Portrait.png309304912#309304916#0(0"0(0#0#86"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png8607868896#678"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default-Portrait.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default-Portrait.png"2#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default.png" Default.png
+s309304910.021223
+e309304911.260161
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default.png
+xDefault.png
+lSLF07#2@81"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/Default.png" Default.png309304910#309304911#0(0"0(0#0#77"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png8606924448#660"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default@2x.png" Default@2x.png
+s309304911.260324
+e309304915.244599
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@87"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/Default@2x.png" Default@2x.png309304911#309304915#0(0"0(0#0#80"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png8604243520#666"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Default@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Default@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon-72.png" Icon-72.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon.png" Icon.png
+s309304908.539468
+e309304908.622293
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon.png
+xIcon.png
+lSLF07#2@75"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/Icon.png" Icon.png309304908#309304908#0(0"0(0#0#74"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png8607685536#654"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png" Icon@2x.png
+s309304912.848754
+e309304912.945071
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@81"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png" Icon@2x.png309304912#309304912#0(0"0(0#0#77"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png8603894880#660"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Icon@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Icon@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background.png" Resources/background.png
+s309304907.420092
+e309304909.512610
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background.png
+xResources/background.png
+lSLF07#2@97"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/background.png" Resources/background.png309304907#309304909#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png8601933632#676"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background@2x.png" Resources/background@2x.png
+s309304908.733048
+e309304912.848493
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background@2x.png
+xResources/background@2x.png
+lSLF07#2@103"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/background@2x.png" Resources/background@2x.png309304908#309304912#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png8607508448#682"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/background@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/background@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/backgroundHipad.png" Resources-iPad/backgroundHipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/backgroundVipad.png" Resources-iPad/backgroundVipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN.png" Resources/menuBTN.png
+s309304908.659368
+e309304908.702778
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN.png
+xResources/menuBTN.png
+lSLF07#2@91"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menuBTN.png" Resources/menuBTN.png309304908#309304908#0(0"0(0#0#87"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png8607221472#670"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png" Resources/menuBTN@2x.png
+s309304909.512763
+e309304909.563991
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png
+xResources/menuBTN@2x.png
+lSLF07#2@97"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png" Resources/menuBTN@2x.png309304909#309304909#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png8607503840#676"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menuBTN@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTN@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTNhorizontalipad.png" Resources-iPad/menuBTNhorizontalipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menuBTNverticalipad.png" Resources-iPad/menuBTNverticalipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png" Resources/menu_newGameButton.png
+s309304908.221257
+e309304908.278265
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png
+xResources/menu_newGameButton.png
+lSLF07#2@113"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png" Resources/menu_newGameButton.png309304908#309304908#0(0"0(0#0#98"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png8605277952#692"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png" Resources/menu_newGameButton@2x.png
+s309304915.244765
+e309304915.339091
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png
+xResources/menu_newGameButton@2x.png
+lSLF07#2@119"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png" Resources/menu_newGameButton@2x.png309304915#309304915#0(0"0(0#0#101"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png8605213376#698"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_newGameButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_newGameButton@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png" Resources/menu_recipeButton.png
+s309304908.278351
+e309304908.338798
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png
+xResources/menu_recipeButton.png
+lSLF07#2@111"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png" Resources/menu_recipeButton.png309304908#309304908#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png8601235456#690"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png" Resources/menu_recipeButton@2x.png
+s309304915.339176
+e309304915.442028
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png
+xResources/menu_recipeButton@2x.png
+lSLF07#2@117"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png" Resources/menu_recipeButton@2x.png309304915#309304915#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png8604521600#696"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_recipeButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_recipeButton@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png" Resources/menu_resumeButton.png
+s309304908.338885
+e309304908.387965
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png
+xResources/menu_resumeButton.png
+lSLF07#2@111"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png" Resources/menu_resumeButton.png309304908#309304908#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png8605407072#690"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png" Resources/menu_resumeButton@2x.png
+s309304915.442111
+e309304915.536065
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png
+xResources/menu_resumeButton@2x.png
+lSLF07#2@117"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png" Resources/menu_resumeButton@2x.png309304915#309304915#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png8608037920#696"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_resumeButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_resumeButton@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png" Resources/menu_scoresButton.png
+s309304908.388055
+e309304908.436200
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png
+xResources/menu_scoresButton.png
+lSLF07#2@111"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png" Resources/menu_scoresButton.png309304908#309304908#0(0"0(0#0#97"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png8605645280#690"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png" Resources/menu_scoresButton@2x.png
+s309304915.536153
+e309304915.608720
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png
+xResources/menu_scoresButton@2x.png
+lSLF07#2@117"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png" Resources/menu_scoresButton@2x.png309304915#309304915#0(0"0(0#0#100"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png8607867520#696"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/menu_scoresButton@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/menu_scoresButton@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abc.png" Resources/scores-abc.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abc@2x.png" Resources/scores-abc@2x.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-abciPad.png" Resources-iPad/scores-abciPad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowl.png" Resources/scores-bowl.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowl@2x.png" Resources/scores-bowl@2x.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/scores-bowliPad.png" Resources-iPad/scores-bowliPad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png" Resources/spoonBroth.png
+s309304908.436284
+e309304908.538798
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png
+xResources/spoonBroth.png
+lSLF07#2@97"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png" Resources/spoonBroth.png309304908#309304908#0(0"0(0#0#90"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png8603691328#676"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png" Resources/spoonBroth@2x.png
+s309304909.564076
+e309304909.968415
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png
+xResources/spoonBroth@2x.png
+lSLF07#2@103"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png" Resources/spoonBroth@2x.png309304909#309304909#0(0"0(0#0#93"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png8607394400#682"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/spoonBroth@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBroth@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBrothHipad.png" Resources-iPad/spoonBrothHipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/spoonBrothVipad.png" Resources-iPad/spoonBrothVipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN.png" Resources/submitBTN.png
+s309304908.702862
+e309304908.732964
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN.png
+xResources/submitBTN.png
+lSLF07#2@95"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/submitBTN.png" Resources/submitBTN.png309304908#309304908#0(0"0(0#0#89"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png8607876736#674"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png" Resources/submitBTN@2x.png
+s309304909.968499
+e309304910.021134
+r1
+xCopyPNGFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png
+xResources/submitBTN@2x.png
+lSLF07#2@101"CopyPNGFile "build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png" Resources/submitBTN@2x.png309304909#309304910#0(0"0(0#0#92"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png8607218752#680"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Resources/submitBTN@2x.png" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTN@2x.png"0#
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTNhorizontalipad.png" Resources-iPad/submitBTNhorizontalipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/submitBTNverticalipad.png" Resources-iPad/submitBTNverticalipad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abc.png" Resources/title-abc.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abc@2x.png" Resources/title-abc@2x.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-abciPad.png" Resources-iPad/title-abciPad.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowl.png" Resources/title-bowl.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowl@2x.png" Resources/title-bowl@2x.png
+r0
+
+CCopyPNGFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/title-bowliPad.png" Resources-iPad/title-bowliPad.png
+r0
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/Dictionary" Dictionary
+s309304908.538879
+e309304908.659283
+r1
+xCpResource
+xbuild/Distribution-iphoneos/Letter Soup.app/Dictionary
+xDictionary
+lSLF07#2@15"Copy Dictionary309304908#309304908#0(0"0(0#0#76"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary8608079488#559"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Dictionary" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/Instructions.txt" Instructions.txt
+r0
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s309304898.114954
+e309304898.625627
+r1
+xCpResource
+xbuild/Distribution-iphoneos/Letter Soup.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist309304898#309304898#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8531300039613640704#570"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app"0#
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/bigSlurp.caf" bigSlurp.caf
+r0
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/click.caf" click.caf
+r0
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/smallSlurp.caf" smallSlurp.caf
+r0
+
+CCpResource "build/Distribution-iphoneos/Letter Soup.app/undo.caf" undo.caf
+r0
+
+CCreateUniversalBinary "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Letter Soup" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app.dSYM" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Letter Soup"
+r0
+
+CLd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv6/Letter Soup" normal armv6
+r0
+
+CLd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Objects-normal/armv7/Letter Soup" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Info.plist" "Letter Soup-Info.plist"
+s309304898.438011
+e309304898.560791
+r1
+xProcessInfoPlistFile
+x/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Info.plist
+xLetter Soup-Info.plist
+lSLF07#2@30"Process Letter Soup-Info.plist309304898#309304898#0(0"0(0#0#88"/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/Letter Soup-Info.plist8608020448#717"    cd "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Letter Soup-Info.plist" -genpkginfo "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/ResourceRules.plist" -o "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/Info.plist"0#
+
+CProcessPCH "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-dsznqncwhsldrwaafrgysfwjakjx/Letter Soup_Prefix.pch.gch" "Letter Soup_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH "/var/folders/vi/viJ9SanqGuy0IXm1Wu9TZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Letter Soup_Prefix-elcnwfhjqejhlydvvsiisbbpdgsp/Letter Soup_Prefix.pch.gch" "Letter Soup_Prefix.pch" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/brien/Library/MobileDevice/Provisioning Profiles/1B7BB461-A74F-4DBE-B7B5-1CCCDA557A0E.mobileprovision" "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Letter Soup.build/Distribution-iphoneos/Letter Soup.build/Letter Soup.xcent"
+r0
+
+CTouch "/Users/brien/Dropbox/Sacina/Letter Soup/Letter Soup 1.0 Universal/build/Distribution-iphoneos/Letter Soup.app"
+r0
+
